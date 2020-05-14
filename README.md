@@ -10,7 +10,9 @@ Cuanto a la grafica que se creara, esta nos mostrara un grafico entre la relacio
 
 * Para instalar el proyecto debemos ir a la parte superior derecha y descargar el archivo .zip, tal y como lo muestra en la imagen.
 
-*imagen del visual*
+![descargaa](https://user-images.githubusercontent.com/61460280/81896202-b21c4500-9579-11ea-8594-0e0668930f37.PNG)
+
+* L
 
 * Luego descomprimimos el archivo y saldra el proyecto, tal y como lo muestra la imagen.
 
